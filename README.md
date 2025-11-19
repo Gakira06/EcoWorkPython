@@ -7,15 +7,14 @@ Aqui está o README responsivo, adaptado e completo para o seu projeto **Sistema
 -----
 
 # 📊💡 Sistema de Gestão EcoWork
-
 **Tagline:** *A visibilidade que sua empresa precisa para transformar consumo de energia em sustentabilidade e produtividade.*
 
 <p align="center">
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite)" alt="Linguagem Python" />
-<img src="[https://img.shields.io/badge/Console%20Application-lightgrey?style=for-the-badge\&logo=terminal\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Console%2520Application-lightgrey%3Fstyle%3Dfor-the-badge%26logo%3Dterminal%26logoColor%3Dwhite)" alt="Aplicação de Console" />
-<img src="[https://img.shields.io/badge/Data%20Structure-Dictionary-blue?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Structure-Dictionary-blue%3Fstyle%3Dfor-the-badge)" alt="Dicionários Python" />
-<img src="[https://img.shields.io/badge/Usability-4.5%2F5.0-green?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/Usability-4.5%252F5.0-green%3Fstyle%3Dfor-the-badge)" alt="Usabilidade Alta" />
-<img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite)" alt="Vídeo no YouTube" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem Python" />
+<img src="https://img.shields.io/badge/Console%20Application-lightgrey?style=for-the-badge&logo=terminal&logoColor=white" alt="Aplicação de Console" />
+<img src="https://img.shields.io/badge/Data%20Structure-Dictionary-blue?style=for-the-badge" alt="Dicionários Python" />
+<img src="https://img.shields.io/badge/Usability-4.5%2F5.0-green?style=for-the-badge" alt="Usabilidade Alta" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Vídeo no YouTube" />
 </p>
 
 -----
