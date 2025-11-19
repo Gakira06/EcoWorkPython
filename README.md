@@ -14,7 +14,7 @@ Aqui está o README responsivo, adaptado e completo para o seu projeto **Sistema
 <img src="https://img.shields.io/badge/Console%20Application-lightgrey?style=for-the-badge&logo=terminal&logoColor=white" alt="Aplicação de Console" />
 <img src="https://img.shields.io/badge/Data%20Structure-Dictionary-blue?style=for-the-badge" alt="Dicionários Python" />
 <img src="https://img.shields.io/badge/Usability-4.5%2F5.0-green?style=for-the-badge" alt="Usabilidade Alta" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Vídeo no YouTube" />
+<a href="https://youtu.be/O8Gxjsm-vco"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Vídeo no YouTube" /></a>
 </p>
 
 -----
