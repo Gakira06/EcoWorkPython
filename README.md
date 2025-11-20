@@ -1,10 +1,3 @@
-Este é um ótimo exemplo\! Ele utiliza Markdown avançado, emblemas (badges), e uma estrutura clara e atraente.
-
-Como seu projeto é um **Sistema de Console em Python** (não IoT com ESP32), vou adaptar o README para focar nas funcionalidades de software (menu, validações, dicionários) e na proposta de valor de **Gestão de Sustentabilidade** dentro do contexto do seu código.
-
-Aqui está o README responsivo, adaptado e completo para o seu projeto **Sistema de Gestão EcoWork**:
-
------
 
 # 📊💡 Sistema de Gestão EcoWork
 **Tagline:** *A visibilidade que sua empresa precisa para transformar consumo de energia em sustentabilidade e produtividade.*
@@ -105,9 +98,9 @@ Este projeto foi desenvolvido pelos seguintes alunos da FIAP (1ESPJ):
 
 | Nome | RM | GitHub |
 | :--- | :--- | :--- |
-| **Gustavo Santos** | 561820 | [Link do GitHub](https://www.google.com/search?q=https://github.com/Seu-User-Gustavo) |
-| **Gabriel Akira** | 565191 | [Gakira06](https://github.com/Gakira06) |
-| **Mauro Carlos** | 556645 | [Link do GitHub](https://www.google.com/search?q=https://github.com/Seu-User-Mauro) |
+| **Gustavo Santos** | 561820 | [Link do GitHub](https://github.com/gugasantos24)) |
+| **Gabriel Akira**  | 565191 | [Link do GitHub](https://github.com/Gakira06) |
+| **Mauro Carlos**   | 556645 | [Link do GitHub](https://www.google.com/search?q=https://github.com/Seu-User-Mauro) |
 
 -----
 
